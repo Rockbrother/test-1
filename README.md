@@ -22,3 +22,5 @@
 온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
 
 한 줄짜기 소스 코드는 `funcion add(x, y) { return x + y; } ` 처럼 사용합니다.
+
+![배경화면](./images/7f4ffdf32746fd12129d8a7e514e6a2ce5a1a41e.png)
